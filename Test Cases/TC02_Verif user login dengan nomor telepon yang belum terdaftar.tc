@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC02_Verif user login dengan nomor telepon yang belum terdaftar</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e6c1bbfc-3169-4951-ac74-569c9e68708a</testCaseGuid>
+</TestCaseEntity>
